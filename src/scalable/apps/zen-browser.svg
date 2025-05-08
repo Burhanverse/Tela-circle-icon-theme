@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="64" height="64"><circle cx="32" cy="32" r="27" fill="#101010" style="fill:#232323;fill-opacity:1"/><circle cx="31.946" cy="31.946" r="19.473" style="fill:none;stroke:#fffbec;stroke-width:3.007;stroke-dasharray:none;stroke-opacity:1"/><circle cx="31.925" cy="32.09" r="11.453" style="fill:none;stroke:#fffbec;stroke-width:2.269;stroke-dasharray:none;stroke-opacity:1"/><circle cx="31.873" cy="32.041" r="5.532" style="fill:none;stroke:#fffbec;stroke-width:1.673;stroke-dasharray:none;stroke-opacity:1"/></svg>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M32 59C46.9117 59 59 46.9117 59 32C59 17.0883 46.9117 5 32 5C17.0883 5 5 17.0883 5 32C5 46.9117 17.0883 59 32 59Z" fill="white"/>
+<g clip-path="url(#clip0_2239_32)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32 40.8462C36.8856 40.8462 40.8461 36.8856 40.8461 32C40.8461 27.1144 36.8856 23.1538 32 23.1538C27.1144 23.1538 23.1538 27.1144 23.1538 32C23.1538 36.8856 27.1144 40.8462 32 40.8462ZM39.0769 32C39.0769 35.9085 35.9085 39.077 32 39.077C28.0915 39.077 24.923 35.9085 24.923 32C24.923 28.0915 28.0915 24.923 32 24.923C35.9085 24.923 39.0769 28.0915 39.0769 32Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M47.3334 32C47.3334 40.4684 40.4684 47.3333 32.0001 47.3333C23.5317 47.3333 16.6667 40.4684 16.6667 32C16.6667 23.5316 23.5317 16.6667 32.0001 16.6667C40.4684 16.6667 47.3334 23.5316 47.3334 32ZM32.0001 44.3846C38.8399 44.3846 44.3847 38.8398 44.3847 32C44.3847 25.1602 38.8399 19.6154 32.0001 19.6154C25.1602 19.6154 19.6154 25.1602 19.6154 32C19.6154 38.8398 25.1602 44.3846 32.0001 44.3846Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M55 32C55 44.7025 44.7025 55 32 55C19.2975 55 9 44.7025 9 32C9 19.2975 19.2975 9 32 9C44.7025 9 55 19.2975 55 32ZM32 50.8718C42.4226 50.8718 50.8718 42.4226 50.8718 32C50.8718 21.5774 42.4226 13.1282 32 13.1282C21.5774 13.1282 13.1282 21.5774 13.1282 32C13.1282 42.4226 21.5774 50.8718 32 50.8718Z" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_2239_32">
+<rect width="46" height="46" fill="white" transform="translate(9 9)"/>
+</clipPath>
+</defs>
+</svg>
